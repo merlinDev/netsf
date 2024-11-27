@@ -1,4 +1,5 @@
-{"packages": [
+{   "on": true,
+    "packages": [
     "com.android.chrome",
     "com.google.android.apps.photos",
     "com.whatsapp",
